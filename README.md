@@ -1,2 +1,0 @@
-# oxo
-Created with CodeSandbox
